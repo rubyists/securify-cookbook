@@ -1,4 +1,4 @@
-# hello_chef_server
+# securify
 
-TODO: Enter the cookbook description here.
+Example recipes to secure nodes based on policy
 
